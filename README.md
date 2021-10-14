@@ -1,7 +1,7 @@
 # Data_Science_Honors_Thesis:
 ## Coloring in the Data Gap: Art as a Means of Self-Representation in Mental Health Research and Data Collection
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ls88-openscienceconnector/final-project/master)
+
 
 This project is for my Data Science Honors Thesis. 
 
