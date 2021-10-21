@@ -17,7 +17,7 @@ The items reported in the survey are all categorical so Pearson's chi-square tes
 between the expected and observed frequencies of students' responses. The probability level of p < 0.05 was used as a priori statement of the probability of an event
 " occurring as extreme or more extreme than the one observed if the null hypothesis is true." 
 
-#### How the data was used
+### How the data was used
 The results of the survey were used to offer detailed recommendations for institutions on how to best serve students--in regards to this survey, students with disabilities. Their suggestions include: "Reduce Financial Barriers for Students with Disabilities, Expand Mental Health Services, Reduce Food and Housing Insecurity, and Improve Students’ Safety."
 
 
