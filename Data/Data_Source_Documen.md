@@ -1,13 +1,4 @@
-Identify a possible data source for your research project, and document aspects of this data source. 
-
-Data provenance, and explanation of how the data was or will be gathered should be documented. 
-
-Ownership of the data, including licensing issues for dataset and possible outputs should be discussed.
-
-Possibilities for bias or censoring in the data should be explored.
-
-
-##Student Experience in the Research University (SERU) Consortium COVID-19 Survey
+# Student Experience in the Research University (SERU) Consortium COVID-19 Survey
 
 ### Data Provenance 
 
