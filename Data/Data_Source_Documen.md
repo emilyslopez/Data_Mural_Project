@@ -17,19 +17,18 @@ The items reported in the survey are all categorical so Pearson's chi-square tes
 between the expected and observed frequencies of students' responses. The probability level of p < 0.05 was used as a priori statement of the probability of an event
 " occurring as extreme or more extreme than the one observed if the null hypothesis is true." 
 
-### How the data was used
-The results of the survey were used to offer detailed recommendations for institutions on how to best serve students--in regards to this survey, students with disabilities. Their suggestions include: "Reduce Financial Barriers for Students with Disabilities, Expand Mental Health Services, Reduce Food and Housing Insecurity, and Improve Students’ Safety."
-
-
 ### About the SERU Consortium 
 The SERU Consortium is a policy research and academic parternship between University of California, Berkeley (UCB), the University of Minnesota, and partnership institutions.
 It is based at the Center for Studies in higher Eductation at UCB. More information about the SERU Consortium may be found [here](https://cshe.berkeley.edu/seru).
 
 ### Licensing
 
+### How the data was used
+The results of the survey were used to offer detailed recommendations for institutions on how to best serve students--in regards to this survey, students with disabilities. Their suggestions include: "Reduce Financial Barriers for Students with Disabilities, Expand Mental Health Services, Reduce Food and Housing Insecurity, and Improve Students’ Safety."
+
 ### Possibilites for bias
 Since this survey was only conducted across nine research institions, it may not capture the experience of students during the pandemic across all universities in the U.S. --it stands as a generalizaiton/ a representative dataset for the wider collection of public research institions in the U.S.
-There may also be bias introduced by the questions presented in the survey. If student input was not considered during the creation of the survey, it may not be representative of the students' needs and concerns and may only reflect those needs and concerns assumed by university/ research officials.
+There may also be bias introduced by the questions presented in the survey. If student input was not considered during the creation of the survey, it may not be representative of the students' needs and concerns and may only reflect those needs and concerns assumed by university/ research officials. Lastly, this survey identified students with disabilities as students who may have physical, learning, neurodevelopmental, or cognitive disorders. However, the range of disabilities is more extensive than those listed. References to different types of disabitilies may be found [here](https://www.disabled-world.com/disability/types/). For example, psychological and invisible disabilities were not included in the survey. Without capturing the full range of students with disabilities, this survey may not be reflective of the entire disabled student community.
 
 ### Sources
 Soria, K. M., Horgos, B., Chirikov, I., & Jones-White, D. (2020). The experiences of undergraduate students with physical, learning, neurodevelopmental, and cognitive disabilities during the COVID-19 pandemic. SERU Consortium, University of California - Berkeley and University of Minnesota.
