@@ -17,13 +17,13 @@ The items reported in the survey are all categorical so Pearson's chi-square tes
 between the expected and observed frequencies of students' responses. The probability level of p < 0.05 was used as a priori statement of the probability of an event
 " occurring as extreme or more extreme than the one observed if the null hypothesis is true." 
 
-#### About the SERU Consortium 
+### About the SERU Consortium 
 The SERU Consortium is a policy research and academic parternship between University of California, Berkeley (UCB), the University of Minnesota, and partnership institutions.
 It is based at the Center for Studies in higher Eductation at UCB. More information about the SERU Consortium may be found [here](https://cshe.berkeley.edu/seru).
 
-#### Licensing
+### Licensing
 
-#### Possibilites for bias
+### Possibilites for bias
 Since this survey was only conducted across nine research institions, it may not capture the experience of students during the pandemic across all universities in the U.S. --it stands as a generalizaiton/ a representative dataset for the wider collection of public research institions in the U.S.
 There may also be bias introduced by the questions presented in the survey. If student input was not considered during the creation of the survey, it may not be representative of the students' needs and concerns and may only reflect those needs and concerns assumed by university/ research officials.
 
