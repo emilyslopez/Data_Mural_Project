@@ -10,7 +10,7 @@ An example of the full survey is listed [here](https://drive.google.com/file/d/1
 
 #### Sample
 The survey was adminsitered from May 18 to July 2020, the peak of the academic adjustment during the pandemic. It uses data from 28,311 undergraduate students and had a response rate of 14-31% at each institution. Information about the sample demographics may be found 
-[here] (https://cshe.berkeley.edu/sites/default/files/seru_and_gradseru_covid-19_survey_sample_information.pdf).
+[here](https://cshe.berkeley.edu/sites/default/files/seru_and_gradseru_covid-19_survey_sample_information.pdf).
 
 #### Methedology
 The items reported in the survey are all categorical so Pearson's chi-square test was used in the analysis to determine the satistically significant difference
