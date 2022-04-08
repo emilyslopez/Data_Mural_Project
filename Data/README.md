@@ -9,7 +9,7 @@ The datasets we download have the following labeling system: Shortened-section-n
 ### Satisfaction 
 Satis_data_Arts_1
 
-Satis_data_Humanities_2
+Satis_data_Arts_2
 
 ### Academic Experience and Globalization
 Aca_Exp_data_Arts_1
@@ -17,7 +17,7 @@ Aca_Exp_data_Arts_1
 Aca_Exp_data_Arts_2
 
 ### Campus Climate for Diversity.
-Camp_Cli_data_1
+Camp_Cli_data_Arts_1
 
-Camp_Cli_data_2
+Camp_Cli_data_Arts_2
 
