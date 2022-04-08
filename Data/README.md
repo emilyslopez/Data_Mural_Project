@@ -4,7 +4,7 @@ We extracted data from the University of California Undergraduate Experience Sur
 
 The data can be found here: https://www.universityofcalifornia.edu/about-us/information-center/ucues-data-tables-2020 
 
-The datasets we download have the following labeling system: Shortened-section-name_data_shortened-discipline-name_table-number. For example:
+The datasets we download have the following labeling system: Shortened-section-name_data_Shortened-discipline-name_table-number. For example:
 
 ### Satisfaction 
 Satis_data__Arts_1
