@@ -7,7 +7,7 @@ The data can be found here: https://www.universityofcalifornia.edu/about-us/info
 The datasets we download have the following labeling system: Shortened-section-name_data_Shortened-discipline-name_table-number. For example:
 
 ### Satisfaction 
-Satis_data__Arts_1
+Satis_data_Arts_1
 
 Satis_data_Arts_2
 
