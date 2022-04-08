@@ -22,13 +22,12 @@ Camp_Cli_data_Arts_1
 Camp_Cli_data_Arts_2
 
 The discipline names are shortened to the following for the dataset labels:
-- **Arts**: arts
-- **Humanities**: hum
-- **Life Sciences**: life
-- **Engineering/Computer Science**: eng
-- **Health Professionals & Clinical Sciences**: health
-- **Physical Sciences and Math**: phys
-- **Professional Fields**: prof
-- **Social Sciences**: social
-- **Psychology**: psych
-- **Undeclared/All other/Unkown**: undec
+- **Arts**: Arts
+- **Humanities**: Hum
+- **Life Sciences**: Life
+- **Engineering/Computer Science**: Eng
+- **Health Professionals & Clinical Sciences**: Health
+- **Physical Sciences and Math**: Phys
+- **Professional Fields**: Prof
+- **Social Sciences/Psychology**: Social
+- **Undeclared/All other/Unkown**: Undec
