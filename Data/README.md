@@ -4,10 +4,10 @@ We extracted data from the University of California Undergraduate Experience Sur
 
 The data can be found here: https://www.universityofcalifornia.edu/about-us/information-center/ucues-data-tables-2020 
 
-The datasets we download have the following labeling system: Shortened-section-name_data_discipline_table-number. For example:
+The datasets we download have the following labeling system: Shortened-section-name_data_shortened-discipline-name_table-number. For example:
 
 ### Satisfaction 
-Satis_data_Arts_1
+Satis_data__Arts_1
 
 Satis_data_Arts_2
 
@@ -21,3 +21,14 @@ Camp_Cli_data_Arts_1
 
 Camp_Cli_data_Arts_2
 
+The discipline names are shortened to the following for the dataset labels:
+**Arts**: arts
+**Humanities**: hum
+**Life Sciences**: life
+**Engineering/Computer Science**: eng
+**Health Professionals & Clinical Sciences**: health
+**Physical Sciences and Math**: phys
+**Professional Fields**: prof
+**Social Sciences**: social
+**Psychology**: psych
+**Undeclared/All other/Unkown**: undec
