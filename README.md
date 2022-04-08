@@ -3,9 +3,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emilyslopez/Data_Science_Honors_Thesis/main)
 
 Project Contributers: 
-  Project Lead: Emily Lopez
-  Communications, Ethnographic Research & Mural Design: Gloria Kunder
-  Data Analyst, Mural Design, & Mural Group Facilitator: Omar Ramos
+- **Project Lead**: Emily Lopez
+- **Communications, Ethnographic Research & Mural Design**: Gloria Kunder
+- **Data Analyst, Mural Design, & Mural Group Facilitator**: Omar Ramos
 
 From May to June 2020, a survey conducted by the Student Experience in the Research University (SERU) Consortium gauged the climate of students’ lives and health during the pandemic. The study was conducted across nine research universities and gave suggestions for the next steps that administrators should take in response to the survey’s results. Their research showed that students with disabilities have higher rates of major depressive disorder (between 53% and 70%) and generalized anxiety disorder (between 63% and 80%) compared to students without disabilities (34% and 38% respectively). 
 
