@@ -1,4 +1,5 @@
 # Documentation for the Data Mural Project
 This folder includes:
+* Document with project description and additional links to the datasets and project notes
 * Presentation on the project
-* Project Proposal for the Data Mural Project
+* Project Proposal for the initial project Idea
